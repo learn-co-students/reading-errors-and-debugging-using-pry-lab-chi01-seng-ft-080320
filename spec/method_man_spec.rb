@@ -1,3 +1,5 @@
+require "pry"
+
 require_relative '../fix_using_tests/method_man'
 
 describe "method_man" do
